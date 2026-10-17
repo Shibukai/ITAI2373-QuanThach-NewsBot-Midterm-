@@ -35,5 +35,5 @@ ITAI2373-NewsBot-Midterm/
 ## 🎥 Video Demonstration (Bonus Deliverable)
 A comprehensive 5-7 minute video walking through the full code pipeline, live system inferences on new articles, dataset visualization outputs, and business value metrics has been recorded.
 
-* **Video Demonstration Link:** [Insert your YouTube/Vimeo Link Here]
-* **File Name Convention:** `MT_Video_Group_Solo_[Your_Full_Name]_ITAI2373`
+* **Video Demonstration Link:** https://youtu.be/OmQSEeGae98
+* **File Name Convention:** MT_Video_QuanThach_ITAI2373
